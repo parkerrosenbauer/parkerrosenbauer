@@ -5,7 +5,6 @@ My name is Parker and I live in Menomonie, WI. I am a Data Services Assistant at
 
 - 📫 How to reach me: parkerrosenbauer@gmail.com 
 - 💻 My portfolio: https://parkerrosenbauer.wixsite.com/parkerrosenbauer
-- 🐦 My twitter: https://twitter.com/parkerosenbauer 
 - 🧮 My linkedin: https://www.linkedin.com/in/parker-rosenbauer
 
 <!---
