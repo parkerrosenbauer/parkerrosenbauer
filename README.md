@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @parkerrosenbauer
 
-My name is Parker and I live in Menomonie, WI on unceeded land of the Ojibwe people. I am a Data Services Assistant at Simplify Compliance. My primary responsiblities are to clean and upload sales leads, but in my spare time I work to develop new and more efficient ways to produce the same or better results. I use a combination of Microsoft Excel, Access, and Python to do this.
+I bring a solid professional background in data services and retail management to the table. In my current role, I'm focused on the nuts and bolts of data processing, alongside the upkeep of existing automated systems and the development of new ones as needed. This involves leveraging tools like MS 365 applications and Python.
 
+Outside the professional realm, I enjoy applying my skills to practical projects that enrich my personal life. This includes creating monthly budget reports tailored for myself and my family, as well as building programs aimed at optimizing resource management within video games.
 
 - 📫 How to reach me: parkerrosenbauer@gmail.com 
 - 💻 My portfolio: https://parkerrosenbauer.wixsite.com/parkerrosenbauer
