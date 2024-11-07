@@ -5,7 +5,6 @@ I bring a solid professional background in data services and retail management t
 Outside the professional realm, I enjoy applying my skills to practical projects that enrich my personal life. This includes creating monthly budget reports tailored for myself and my family, as well as building programs aimed at optimizing resource management within video games.
 
 - 📫 How to reach me: parkerrosenbauer@gmail.com 
-- 💻 My portfolio: https://parkerrosenbauer.wixsite.com/parkerrosenbauer
 - 🧮 My linkedin: https://www.linkedin.com/in/parker-rosenbauer
 
 <!---
