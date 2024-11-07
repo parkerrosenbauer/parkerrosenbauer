@@ -1,8 +1,10 @@
 - 👋 Hi, I’m @parkerrosenbauer
 
-I bring a solid professional background in data services and retail management to the table. In my current role, I'm focused on the nuts and bolts of data processing, alongside the upkeep of existing automated systems and the development of new ones as needed. This involves leveraging tools like MS 365 applications and Python.
+As a Data Manager with a strong focus on process optimization and automation, I specialize in leveraging technology to streamline workflows, improve data integrity, and enhance operational efficiency. With a background in Python, JavaScript, SQL, and Power BI, I have a proven track record of automating complex data workflows and troubleshooting issues to ensure accuracy and consistency across systems.
 
-Outside the professional realm, I enjoy applying my skills to practical projects that enrich my personal life. This includes creating monthly budget reports tailored for myself and my family, as well as building programs aimed at optimizing resource management within video games.
+I’m passionate about mentoring others in automation techniques and fostering a culture of continuous improvement. By developing solutions such as automated data transfers, API integrations, and customized reporting tools, I've helped teams reduce manual effort, minimize errors, and increase data accuracy.
+
+I'm always eager to explore new technologies and methodologies to solve problems more effectively and contribute to the success of teams and organizations.
 
 - 📫 How to reach me: parkerrosenbauer@gmail.com 
 - 🧮 My linkedin: https://www.linkedin.com/in/parker-rosenbauer
